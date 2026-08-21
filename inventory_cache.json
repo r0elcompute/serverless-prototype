@@ -1,0 +1,17 @@
+{
+    "SKU-98765": {
+        "item": "Wireless Mouse",
+        "stock_qty": 45,
+        "status": "In Stock"
+    },
+    "SKU-12345": {
+        "item": "Mechanical Keyboard",
+        "stock_qty": 0,
+        "status": "Out of Stock"
+    },
+    "SKU-54321": {
+        "item": "USB-C Hub",
+        "stock_qty": 12,
+        "status": "In Stock"
+    }
+}

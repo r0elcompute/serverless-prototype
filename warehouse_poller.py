@@ -1,3 +1,9 @@
+"""
+[DEPRECATED - THE MERIDIAN PIVOT]
+This 5-minute polling mechanism has been killed by client mandate (Solstice Events Co.).
+Replaced by event-driven serverless webhook listener (see serverless_handler.py).
+"""
+
 import time
 import json
 from datetime import datetime
