@@ -1,6 +1,6 @@
 ﻿# Serverless Webhook Event Handler Prototype
 
-A lightweight, local-first serverless function prototype built for **Assignment 1** of **The Meridian Pivot** sprint (Northstar Retail Co. simulation). 
+A lightweight, local-first serverless function prototype.
 
 ## Overview
 This project simulates an event-driven serverless compute model. Instead of relying on a persistent server or heavy cloud infrastructure (like paid AWS accounts), it demonstrates how application logic can be structured as an isolated handler that spins up on demand to process incoming event payloads (such as webhook triggers).
